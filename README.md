@@ -18,7 +18,7 @@ Digital Clock is a simple web application that displays an Digital clock along w
 
 ## Preview
 
-
+![1](https://github.com/omkarsalunkheatp1211/Digital-Clock/assets/96873232/31f6a3e2-d3c2-4442-b7d5-20ca31103a7e)
 
 ## Technologies Used
 
