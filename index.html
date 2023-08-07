@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Digital Clock</title>
+  <link rel="stylesheet" href="style.css"> 
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <div class="header">
+    <div id="MyDateDisplay" class="date"></div>
+  </div>
+  <div class="center">
+    <div id="MyClockDisplay" class="clock"></div>
+    <div id="MyTimerDisplay" class="timer"></div>
+    <input type="text" id="TimerInput" placeholder="countdown(hh:mm:ss)">
+  </div>
+  <div class="buttons">
+    <button id="StartTimerButton" class="download-btn" onclick="startTimer()">Start Timer</button>
+    <button id="StopTimerButton" class="download-btn" onclick="stopTimer()" disabled>Stop Timer</button>
+    <button id="ResetTimerButton" class="download-btn" onclick="resetTimer()" disabled>Reset Timer</button>
+    <button id="StartStopwatchButton" class="download-btn" onclick="startStopwatch()">Start Stopwatch</button>
+    <button id="StopStopwatchButton" class="download-btn" onclick="stopStopwatch()" disabled>Stop Stopwatch</button>
+    <button id="ResetStopwatchButton" class="download-btn" onclick="resetStopwatch()" disabled>Reset Stopwatch</button>
+  </div>
+  <footer class="footer">
+    <p>Copyright @ 2023 Omkar Inc. All rights reserved.</p>
+  </footer>
+</body>
+</html>
