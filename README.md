@@ -8,7 +8,6 @@ Digital Clock is a simple web application that displays an Digital clock along w
 - [Preview](#Preview)
 - [Technologies Used](#technologies-used)
 - [Setup](#Setup)
-- [Usage](#usage)
 
 ## Features
 
