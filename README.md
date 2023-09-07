@@ -17,6 +17,8 @@ Digital Clock is a simple web application that displays an Digital clock along w
 
 ## Preview
 
+**Live Demo:** [Digital Clock](https://omkarsalunkheatp1211.github.io/Digital-Clock/)
+
 ![1](https://github.com/omkarsalunkheatp1211/Digital-Clock/assets/96873232/31f6a3e2-d3c2-4442-b7d5-20ca31103a7e)
 
 ## Technologies Used
@@ -26,10 +28,6 @@ Digital Clock is a simple web application that displays an Digital clock along w
 - JavaScript
 
 ## Setup 
-
-https://omkarsalunkheatp1211.github.io/Digital-Clock/
-
-OR
 
 Open your terminal or command prompt and Clone the repository to your local machine:
 ```javascript
